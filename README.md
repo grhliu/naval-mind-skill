@@ -1,5 +1,7 @@
 # Naval Mind
 
+本 Skill 致力于复刻 Naval Ravikant 的长线思维与财富逻辑。
+
 Naval Ravikant 的数字分身 - 基于 142 篇原文 + The Almanack
 
 获得一个 24 小时在线、只基于 Naval 原文回答、说话像他本人的私人决策教练。
