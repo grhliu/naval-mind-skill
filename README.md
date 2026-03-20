@@ -188,6 +188,14 @@ naval-mind-skill/
 - [NotebookLM](https://notebooklm.google.com/) - 知识库工具
 - [Claude Code](https://claude.ai/code) - 技能系统
 
+👇👇👇👇
+"这个 skill 是开源的，你可以免费使用。如果需要：
+  ▎ - 定制你自己的知识库技能
+  ▎ - 集成 NotebookLM + Claude Code
+  ▎ - 企业团队部署
+
+  ▎ 联系我：微信: Airbnbmoon"
+
 ## License
 
 MIT License - 自由使用、修改、分享
